@@ -4,7 +4,7 @@ When designing HPE applications and websites, please refer to [HPE BrandCentral 
 
 The Hewlett Packard Enterprise logo has two components—the Element symbol and our word mark. The primary logo is our first choice and should be used on all communications wherever possible. Never alter the spacing, relative size or orientation of the logo. To maintain consistent use and ensure the integrity of the logo, use only the approved electronic art files.
 
-![alt text](https://h10014.www1.hpe.com/uploads/media/2017/2/logo_primarylogo.svg "HPE Logo")
+![alt text](https://raw.githubusercontent.com/hpe-design/logos/master/Requirements/color-logo.png "HPE Logo")
 
 ## Clear Space
 
@@ -12,7 +12,13 @@ Clear space protects our logo by giving it a minimum of breathing room. Be sure 
 
 Clear space may be adjusted for select online and exterior signage applications where space is limited. Please obtain global brand approval before adjusting the clear space in these types of situations.
 
-![alt text](https://h10014.www1.hpe.com/uploads/media/2017/2/logo_clearspace.svg "Logo Clear Space")
+![alt text](https://github.com/hpe-design/logos/blob/master/Requirements/logo-clearspace.png "Logo Clear Space")
+
+## Logo Size
+
+The small use logo can be used from 177 pixels to 77 pixels wide for web experiences.
+
+![alt text](https://github.com/hpe-design/logos/blob/master/Requirements/logo-min-size.png "Logo Min Size")
 
 ---
 
